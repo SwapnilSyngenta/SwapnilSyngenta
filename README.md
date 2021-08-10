@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SwapnilSyngenta
 - 👀 I’m interested in ... iOS development 
 - 🌱 I’m currently learning ... AR in iOS
-- 📫 How to reach me ... swapniltoo@gmail.com
 
 <!---
 SwapnilSyngenta/SwapnilSyngenta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
